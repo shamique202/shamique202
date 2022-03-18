@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m Shamique
 - 👀 I’m interested in full stack software engineering and iOS development!
 - 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on full stack development!
+- 💞️ I’m looking to collaborate on frontend and backend development!
 - 📫 How to reach me via email (etiens202@gmail.com)
 
 <!---
