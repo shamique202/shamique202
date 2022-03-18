@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m @shamique202
+- 👋🏾 Hi, I’m Shamique
 - 👀 I’m interested in full stack software engineering and iOS development!
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on full stack development!
