@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack software engineering and iOS development!
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on frontend and backend development!
-- 💖 I LOVE JAVASCRIPT, with a sprinkle of JAVA 💝
+- 💖 I LOVE JAVASCRIPT, with a hint of JAVA 💝
 - 📫 How to reach me via email (etiens202@gmail.com)
 
 <!---
