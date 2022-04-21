@@ -11,7 +11,7 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](shamique.e@gmail.com)
-[<img src="https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" />](youtube.com/c/Shamique) 
+[<img src="https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" />](https://www.youtube.com/c/shamique) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/shamiqueetienne/)
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/shamique202)
 
