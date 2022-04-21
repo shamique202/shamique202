@@ -86,7 +86,7 @@ Languages: Bilingual in English and French
 
 ## VOLUNTEER EXPERIENCE 
 
-Mentor, Women Who Code | August 2021 – Present 
+Mentor, Women Who Code
 
 * Educate and guide young women on coding and embracing gender diversity in the technology industry. 
 * Establish relationships and provide inspiration and motivation to empower more women to pursue careers in technology
