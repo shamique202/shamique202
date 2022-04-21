@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="100"/>
+</div>
+
+
 # SOFTWARE DEVELOPMENT ENGINEER
 Innovative, self-motivated, and goal-driven professional with progressive experience in software design and development. Motivated to empower
 individuals through mentorship and change the world through exceptional, digital experiences.
