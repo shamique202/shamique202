@@ -38,8 +38,8 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/redux-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=redux&logoColor=008080)&nbsp;
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=008080)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -48,8 +48,8 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&logoColor=336791)&nbsp;
-![Mongoose](https://img.shields.io/badge/-mongoose-05122A?style=flat&logo=mongoose&logoColor=336791)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=336791)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose&logoColor=336791)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS&logoColor=777BB4)&nbsp;
 
