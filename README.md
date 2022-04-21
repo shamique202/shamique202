@@ -52,6 +52,7 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose&logoColor=336791)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS&logoColor=777BB4)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=777BB4)&nbsp;
 
 
 <!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -78,7 +79,7 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 ## COMPUTER/TECHNICAL & OTHER SKILLS:
 
 Technical Skills: HTML, CSS, JavaScript, Java, React, Redux, Node, Python, Django, SQL, Microsoft Office, Git, Command-Line, Github, jQuery, 
-PostgreSQL, MongoDB, Mongoose, NoSQL, Firebase, AWS, Web API, MERN, Express, ES6, Mongo DB, SASS, LESS
+PostgreSQL, MongoDB, Mongoose, NoSQL, Firebase, AWS, Web API, MERN, Express.JS, ES6, Mongo DB, SASS, LESS
 Languages: Bilingual in English and French
 
 ## VOLUNTEER EXPERIENCE 
