@@ -19,10 +19,15 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 # About Me: 
 
 🤝 I’m looking for help with iOS development
+
 🌱 I’m currently learning fullstack development
+
 👯 I’m looking to collaborate on frontend and backend development
+
 📫 How to reach me shamique.e@gmail.com
+
 👨‍💻 All of my projects are available at GitHub.com/shamique202
+
 ⚡ Fun fact: I love Python!
 
 
