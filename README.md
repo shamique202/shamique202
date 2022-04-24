@@ -28,7 +28,7 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 
 👨‍💻 All of my projects are available at GitHub.com/shamique202
 
-⚡ Fun fact: I love Python!
+⚡ Fun fact: I am a photographer!
 
 
 ## Connect with me
