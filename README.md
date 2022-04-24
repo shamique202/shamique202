@@ -39,12 +39,7 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/shamiqueetienne/)
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/shamique202)
 
-</p>            
-
-<br>
-
-
-<br>
+</p>       
 
 ## Tech Stack
 
