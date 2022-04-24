@@ -2,7 +2,7 @@
 
 <br>
 
-# SOFTWARE DEVELOPMENT ENGINEER
+# SOFTWARE ENGINEER
 Innovative, self-motivated, and goal-driven professional with progressive experience in software design and development. Motivated to empower
 individuals through mentorship and change the world through exceptional, digital experiences.
 
