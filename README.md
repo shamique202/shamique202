@@ -26,9 +26,9 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 
 📫 How to reach me shamique.e@gmail.com
 
-👨‍💻 All of my projects are available at GitHub.com/shamique202
+👩🏾‍💻 All of my projects are available at GitHub.com/shamique202
 
-⚡ Fun fact: I am a photographer!
+⚡ Fun fact: I am a photographer & I love film photography!
 
 
 ## Connect with me
