@@ -22,8 +22,6 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 
 👯 I’m looking to collaborate on frontend and backend development
 
-🤝 I want to learn iOS development next!
-
 📫 How to reach me shamique.e@gmail.com
 
 👩🏾‍💻 All of my projects are available at GitHub.com/shamique202
