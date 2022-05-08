@@ -1,6 +1,4 @@
 
-<br>
-
 # SOFTWARE ENGINEER
 Innovative, self-motivated, and goal-driven professional with progressive experience in software design and development. Motivated to empower
 individuals through mentorship and change the world through exceptional, digital experiences.
@@ -77,5 +75,4 @@ Software Engineering | Accountability & Ownership | Computer Science | Distribut
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp; -->
 
-<br>
 
