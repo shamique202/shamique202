@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Jaydeep-Yadav/Jaydeep-Yadav/main/banner.png" >
 
 <br>
 
