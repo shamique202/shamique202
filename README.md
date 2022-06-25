@@ -1,13 +1,7 @@
 
-# SOFTWARE ENGINEER
+# Software Engineer
 Innovative, self-motivated, and goal-driven professional with progressive experience in software design and development. Motivated to empower
 individuals through mentorship and change the world through exceptional, digital experiences.
-
-<br>
-
-# CORE COMPETENCIES
-Software Development Lifecycle | Coding | Bug Fixing | Cross-Functional Collaboration | Testing | Regulatory Compliance
-Software Engineering | Accountability & Ownership | Computer Science | Distributed Systems | Programming | Web Application
 
 <br>
 
