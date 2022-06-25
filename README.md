@@ -3,8 +3,6 @@
 Innovative, self-motivated, and goal-driven professional with progressive experience in software design and development. Motivated to empower
 individuals through mentorship and change the world through exceptional, digital experiences.
 
-<br>
-
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" style="margin-top:100px"/>
 
 # About Me: 
