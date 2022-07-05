@@ -9,7 +9,7 @@ individuals through mentorship and change the world through exceptional, digital
 
 🌱 I’m currently learning fullstack development
 
-👯 I’m looking to collaborate on frontend and backend development
+💞 I’m looking to collaborate on frontend and backend development
 
 📫 How to reach me shamique.e@gmail.com
 
