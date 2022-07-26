@@ -7,7 +7,7 @@ individuals through mentorship and change the world through exceptional, digital
 
 # About Me: 
 
-🌱 I’m currently learning fullstack development
+🌱 I’m currently learning JavaScript, ReactJS, & Python
 
 💞 I’m looking to collaborate on frontend and backend development
 
