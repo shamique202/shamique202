@@ -9,20 +9,19 @@ individuals through mentorship and change the world through exceptional, digital
 
 🌱 I’m currently learning JavaScript, ReactJS, & Python
 
-💞 I’m looking to collaborate on frontend and backend development
+💞 I’m looking to collaborate on frontend development
 
 📫 How to reach me shamique.e@gmail.com
 
 👩🏾‍💻 All of my projects are available at GitHub.com/shamique202
 
-⚡ Fun fact: I am a photographer & I love film photography!
+⚡ Fun fact: I love film photography!
 
 
 ## Connect with me
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" />](https://www.youtube.com/c/Shamique) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/shamiqueetienne/)
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/shamique202)
 
