@@ -1,8 +1,8 @@
-# About Me: 
+### About Me: 
 
-📫 How to reach me shamique.e@gmail.com
+✨ Take a look at my portfolio: shamique.myportfolio.com
 
 👩🏾‍💻 All of my projects are available at GitHub.com/shamique202
 
-⚡ Fun fact: I love film photography! 
+💗 Fun fact: I love film photography! 
 
